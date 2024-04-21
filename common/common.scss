@@ -35,7 +35,7 @@
     justify-content: center;
     //box-shadow: var(--shadow-card);
     box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.15);
-    margin: 2.5em auto;
+    //margin: 2.5em auto;
     background: #{$banner-box-background-color};
 
     @if $layout == "text-top" {
